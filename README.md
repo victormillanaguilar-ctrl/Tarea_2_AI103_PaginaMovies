@@ -174,8 +174,8 @@ Este proyecto está bajo licencia MIT - ver LICENSE para más detalles.
 
 ## ✉️ Contacto
 
-**Autor**: Victor Millán Aguilar  
-**Email**: victormillanaguilar-ctrl@github.com  
+**Autor**: Victor Manuel Millán Aguilar  
+**Email**: victormillanaguilar@gmail.com 
 **GitHub**: [@victormillanaguilar-ctrl](https://github.com/victormillanaguilar-ctrl)
 
 ---
