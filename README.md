@@ -2,6 +2,10 @@
 
 Una galería interactiva de películas con capacidad de gestionar pósters y detalles de películas. Construida con HTML5, CSS3 y JavaScript vanilla.
 
+## Visualización de la Página Web
+
+![FilmHub Gallery](./Visualizacion/FilmHub.JPG)
+
 ## ✨ Características
 
 - **Galería de Películas**: Grid responsive con miniaturas de películas
